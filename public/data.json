@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in after multiple password reset attempts. They report that the reset link works, but the new password is not being accepted when trying again. This issue prevents them from accessing their account entirely.",
+    "customer": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failure - Transaction Declined",
+    "description": "Customer's card is being declined despite sufficient balance. They tried multiple times with different cards and still faced the same issue. The payment gateway shows an error code without explanation.",
+    "customer": "Emily Johnson",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1003,
+    "title": "App Crashes on Launch",
+    "description": "The mobile app crashes immediately upon opening on several Android devices. The customer has reinstalled the app multiple times without success. They cannot access any features due to this crash.",
+    "customer": "Michael Brown",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": 1004,
+    "title": "Delayed Email Notifications",
+    "description": "Customer reports receiving notifications several hours late, making them miss important updates. They are particularly concerned about time-sensitive messages related to account security. The delay is inconsistent but frequent.",
+    "customer": "Sarah Davis",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": 1005,
+    "title": "Unable to Update Profile",
+    "description": "Profile changes are not being saved after submission. The customer tried updating their phone number address, and profile picture but nothing reflects in the account. They have cleared cache and cookies with no result.",
+    "customer": "David Wilson",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": 1006,
+    "title": "Two-Factor Authentication Not Working",
+    "description": "Customer is not receiving verification codes via SMS when logging in. They confirmed their phone number is correct and tried with another device. This prevents them from completing the login process.",
+    "customer": "Laura Martinez",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": 1007,
+    "title": "Website Loading Slowly",
+    "description": "Customer reports very slow load times on the main dashboard. Pages take up to a minute to load, making navigation extremely difficult. The issue occurs on multiple browsers and internet connections.",
+    "customer": "James Anderson",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": 1008,
+    "title": "Order History Missing",
+    "description": "Past orders are not showing up in the customer’s account despite being visible before. They checked multiple devices but the order history section appears blank. This creates concerns about tracking previous purchases.",
+    "customer": "Sophia Thomas",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-22"
+  },
+  {
+    "id": 1009,
+    "title": "App Logout Issue",
+    "description": "Customer is logged out every time they close the app, even when the 'Stay signed in' option is selected. This forces them to log in repeatedly and slows down their workflow. They are frustrated with the constant re-authentication.",
+    "customer": "Daniel Lee",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-23"
+  },
+  {
+    "id": 1010,
+    "title": "Password Reset Link Expired",
+    "description": "Reset link expires before the customer has a chance to use it. Even when opened immediately, the system shows the link as invalid. The user has been unable to reset their password successfully.",
+    "customer": "Olivia Harris",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-24"
+  },
+  {
+    "id": 1011,
+    "title": "Incorrect Billing Amount",
+    "description": "Customer was charged double the subscription fee this month. Their billing history shows duplicate entries for the same payment date. They are requesting an immediate refund and clarification.",
+    "customer": "Matthew Clark",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-25"
+  },
+  {
+    "id": 1012,
+    "title": "Feature Not Accessible",
+    "description": "A premium feature remains locked despite the customer having an active subscription. They tried logging out and back in, but the feature still shows as unavailable. The issue is preventing them from using the service fully.",
+    "customer": "Ava Lewis",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-26"
+  },
+  {
+    "id": 1013,
+    "title": "Incorrect Language Settings",
+    "description": "App displays the wrong language despite correct settings being selected. The issue happens intermittently, switching between English and another language. This creates confusion while navigating the platform.",
+    "customer": "Ethan Walker",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-27"
+  },
+  {
+    "id": 1014,
+    "title": "Error During Checkout",
+    "description": "Customer receives an unknown error message when attempting to complete checkout. The error occurs after payment details are entered, preventing successful purchase. They are unable to finalize their order.",
+    "customer": "Isabella Hall",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-28"
+  },
+  {
+    "id": 1015,
+    "title": "Data Sync Issues",
+    "description": "Customer data is not syncing between web and mobile app versions. Updates made on one device do not appear on the other. This creates inconsistencies in their account information.",
+    "customer": "William Young",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-29"
+  },
+  {
+    "id": 1016,
+    "title": "Push Notifications Disabled",
+    "description": "Customer is no longer receiving push notifications from the app. They checked their device settings and confirmed notifications are enabled. Despite this, no alerts are being received.",
+    "customer": "Mia King",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-30"
+  },
+  {
+    "id": 1017,
+    "title": "Subscription Cancelled Unexpectedly",
+    "description": "Customer’s active subscription shows as expired without any request from their side. Their payment method is valid and renewal was expected. They cannot access premium features due to this cancellation.",
+    "customer": "Alexander Scott",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-31"
+  },
+  {
+    "id": 1018,
+    "title": "App Freezes on iOS",
+    "description": "Several iOS users report the app freezing frequently during normal use. The freeze happens while navigating between pages and requires a force close. This disrupts their overall experience.",
+    "customer": "Charlotte Green",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-02-01"
+  },
+  {
+    "id": 1019,
+    "title": "Missing Refund",
+    "description": "Refund requested by the customer has not been reflected in their account after more than 7 days. They checked with their bank and found no pending transactions. They are demanding urgent action.",
+    "customer": "Benjamin Adams",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-02-02"
+  },
+  {
+    "id": 1020,
+    "title": "Search Function Not Working",
+    "description": "Customer is unable to find products using the search bar. No results appear even for items that exist in the catalog. They rely on search for quick navigation and this slows them down.",
+    "customer": "Amelia Baker",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-02-03"
+  }
+]
